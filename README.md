@@ -27,5 +27,16 @@
 3. ### 만든폴더를 shift + 마우스 우클릭을 눌러 파워쉘로 열기를 클릭한다.
  ![image](https://github.com/user-attachments/assets/4ff32e48-d098-4816-a9b0-95bf37f6e97b)
 4. 이제 파워쉘을 열고 npx create-react-app my app을 친다.
+![image](https://github.com/user-attachments/assets/9a15c19d-97ed-420e-81ec-e6934c856436) 
+5.happy hacking이라는 문구가 나오면 준비완료.
+![image](https://github.com/user-attachments/assets/a02b6b6d-c3ba-481a-b76f-447a2bf37190)
+
+6.vscode로 들어가서 만들어진 폴더를 열어 source => app.js => terminal 클릭.
+![image](https://github.com/user-attachments/assets/51e425b9-b1bc-4071-b1d7-7f8e72fa1694)
+
+7.react는 실시간 스트리밍이 지원이 되는데 termianl에서 cd 본인의 파일명(ex cd playlist)을 입력
+![image](https://github.com/user-attachments/assets/959fcda4-e890-4578-b977-694d4f1de1d7)
+
+8.즐거운 리액트 공부 시작
 
 
